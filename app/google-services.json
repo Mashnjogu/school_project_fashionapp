@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063020731873",
+    "project_id": "chachisha-fashion",
+    "storage_bucket": "chachisha-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063020731873:android:fe32f9e010cc5c3ec346a0",
+        "android_client_info": {
+          "package_name": "com.android.demo.chachishafashi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063020731873-ajj4v1rjv3b6n18gd7opajb7rtd9erba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.demo.chachishafashi",
+            "certificate_hash": "c5400ba0fe56eeb07fda8ad8aba28ba925a3095f"
+          }
+        },
+        {
+          "client_id": "1063020731873-svlf7bv2q4p10u3ivgghdfghj69behst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18v1JvogTV3eEJ_r784je2VFEEKDH0CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063020731873-svlf7bv2q4p10u3ivgghdfghj69behst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
